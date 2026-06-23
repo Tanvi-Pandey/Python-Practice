@@ -19,7 +19,7 @@ print("First column:", arr[:,0])
 print("Last column:", arr[:,-1])
 
 # 5. Element 25
-print("Element 25:", arr[1,1])
+print("Element at [1,1]:", arr[1,1])
 
 # 6. Element 45
-print("Element 45:", arr[2,2])
+print("Element at [2,2]:", arr[2,2])

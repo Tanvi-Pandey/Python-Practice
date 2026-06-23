@@ -30,5 +30,5 @@ print(arr[0]) #first row
 print(arr[-1]) #last row
 
 arr[row][column] #particular element
-print(arr[0:3]) #first three elements  start : stop stop not included
+print(arr[0:3]) #first three elements ; start : stop ; stop not included
 print(arr[::2])  #[start : stop : step]
